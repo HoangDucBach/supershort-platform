@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/HoangDucBach/super-shorten-link
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/HoangDucBach/supershort
