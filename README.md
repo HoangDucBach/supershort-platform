@@ -172,6 +172,8 @@ Sử dụng mã hóa **Base62** kết hợp với **Distributed Counter** để 
 - **Caching**  
   - **Edge Middleware** của Next.js giúp client redirect
   - **Redis cache** phía server tăng tốc độ truy xuất URL gốc, giảm tải database
+- **Message Queue**
+  - **Bullmq** của NestJS
 
 - **Database**  
   - Sử dụng **PostgreSQL**  
